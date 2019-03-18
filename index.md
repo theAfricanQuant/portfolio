@@ -17,7 +17,7 @@
 
 - neuralnet: Train and Test Neural Networks Using R
 
-- Predicting Irish electricity consumption with an LSTM neural network
+- Predicting Irish electricity consumption with an LSTM neural network(https://mgcodesandstats.github.io/electricity-consumption-neural/)
 
 - SARIMA: Forecasting seasonal data with Python and R
 
