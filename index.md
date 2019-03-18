@@ -11,7 +11,7 @@
 
 [- Image Recognition with Keras: Convolutional Neural Networks](https://mgcodesandstats.github.io/image-recognition-with-keras-convolutional-neural-networks/)
 
-[- Kalman Filter: Modelling Time Series Shocks with KFAS in R]()
+[- Kalman Filter: Modelling Time Series Shocks with KFAS in R](https://mgcodesandstats.github.io/kalman-filter-shocks-kfas/)
 
 [- Modelling time series relationships between the S&P 500 and oil prices]()
 
@@ -23,4 +23,4 @@
 
 [- Visualizing New York City WiFi Access with K-Means Clustering]()
 
-[- Working with panel data in R: Fixed vs. Random Effects (plm)]()
+[- Working with panel data in R: Fixed vs. Random Effects (plm)](https://mgcodesandstats.github.io/panel-data-plm-r/)
