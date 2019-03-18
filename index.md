@@ -7,7 +7,7 @@
 
 [- Bayesian Statistics: Analysis of Health Data]()
 
-[- Cumulative Binomial Probability with R and Shiny]()
+[- Cumulative Binomial Probability with R and Shiny](https://mgcodesandstats.github.io/cumulative-binomial-probability-r-shiny/)
 
 [- Image Recognition with Keras: Convolutional Neural Networks](https://mgcodesandstats.github.io/image-recognition-with-keras-convolutional-neural-networks/)
 
