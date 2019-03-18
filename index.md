@@ -5,22 +5,22 @@
 
 # Portfolio
 
-- Bayesian Statistics: Analysis of Health Data
+[- Bayesian Statistics: Analysis of Health Data]()
 
-- Cumulative Binomial Probability with R and Shiny
+[- Cumulative Binomial Probability with R and Shiny]()
 
-- Image Recognition with Keras: Convolutional Neural Networks
+[- Image Recognition with Keras: Convolutional Neural Networks](https://mgcodesandstats.github.io/image-recognition-with-keras-convolutional-neural-networks/)
 
-- Kalman Filter: Modelling Time Series Shocks with KFAS in R
+[- Kalman Filter: Modelling Time Series Shocks with KFAS in R]()
 
-- Modelling time series relationships between the S&P 500 and oil prices
+[- Modelling time series relationships between the S&P 500 and oil prices]()
 
-- neuralnet: Train and Test Neural Networks Using R
+[- neuralnet: Train and Test Neural Networks Using R](https://mgcodesandstats.github.io/neural-network-modelling-neuralnet-r/)
 
 [- Predicting Irish electricity consumption with an LSTM neural network](https://mgcodesandstats.github.io/electricity-consumption-neural/)
 
-- SARIMA: Forecasting seasonal data with Python and R
+[- SARIMA: Forecasting seasonal data with Python and R](https://mgcodesandstats.github.io/arima-model-statsmodels-python/)
 
-- Visualizing New York City WiFi Access with K-Means Clustering
+[- Visualizing New York City WiFi Access with K-Means Clustering]()
 
-- Working with panel data in R: Fixed vs. Random Effects (plm)
+[- Working with panel data in R: Fixed vs. Random Effects (plm)]()
