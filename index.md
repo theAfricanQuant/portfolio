@@ -5,7 +5,7 @@
 
 # Portfolio
 
-[- Bayesian Statistics: Analysis of Health Data]()
+[- Bayesian Statistics: Analysis of Health Data](https://mgcodesandstats.github.io/bayesian-statistics-health-data/)
 
 [- Cumulative Binomial Probability with R and Shiny](https://mgcodesandstats.github.io/cumulative-binomial-probability-r-shiny/)
 
@@ -13,7 +13,7 @@
 
 [- Kalman Filter: Modelling Time Series Shocks with KFAS in R](https://mgcodesandstats.github.io/kalman-filter-shocks-kfas/)
 
-[- Modelling time series relationships between the S&P 500 and oil prices]()
+[- Modelling time series relationships between the S&P 500 and oil prices](https://mgcodesandstats.github.io/time-series-relationships-economics/)
 
 [- neuralnet: Train and Test Neural Networks Using R](https://mgcodesandstats.github.io/neural-network-modelling-neuralnet-r/)
 
@@ -21,6 +21,6 @@
 
 [- SARIMA: Forecasting seasonal data with Python and R](https://mgcodesandstats.github.io/arima-model-statsmodels-python/)
 
-[- Visualizing New York City WiFi Access with K-Means Clustering]()
+[- Visualizing New York City WiFi Access with K-Means Clustering](https://mgcodesandstats.github.io/visualizing-new-york-city-wifi-access-with-k-means-clustering/)
 
 [- Working with panel data in R: Fixed vs. Random Effects (plm)](https://mgcodesandstats.github.io/panel-data-plm-r/)
