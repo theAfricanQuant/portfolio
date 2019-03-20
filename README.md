@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+[Home](https://mgcodesandstats.github.io/) |
+[Time Series Consulting](https://mgcodesandstats.github.io/timeseriesconsulting/) |
+[Portfolio](https://mgcodesandstats.github.io/portfolio/) |
+[Terms and Conditions](https://mgcodesandstats.github.io/terms/) |
+[E-mail me](mailto:michael@michaeljgrogan.com) |
+[LinkedIn](https://www.linkedin.com/in/michaeljgrogan/)
 
-You can use the [editor on GitHub](https://github.com/MGCodesandStats/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Portfolio
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## [- Bayesian Statistics: Analysis of Health Data](https://mgcodesandstats.github.io/bayesian-statistics-health-data/)
 
-### Markdown
+Here is an example of how Bayesian statistics can be used to indicate the best predictor of BMI fluctuations within a regression model.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## [- Cumulative Binomial Probability with R and Shiny](https://mgcodesandstats.github.io/cumulative-binomial-probability-r-shiny/)
 
-# Header 1
-## Header 2
-### Header 3
+The following is an illustration of how cumulative binomial probability can be calculated, and how a Shiny Web App can be used to make the analysis more intuitive.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## [- Image Recognition with Keras: Convolutional Neural Networks](https://mgcodesandstats.github.io/image-recognition-with-keras-convolutional-neural-networks/)
 
-**Bold** and _Italic_ and `Code` text
+An example of how the VGG16 neural network can be used to classify images. In this instance, road vehicles are classified using ImageNet as a training source, and image manipulation methods with PIL are explored.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## [- Kalman Filter: Modelling Time Series Shocks with KFAS in R](https://mgcodesandstats.github.io/kalman-filter-shocks-kfas/)
 
-### Jekyll Themes
+A common problem in modelling a time series is the presence of "shocks", or extreme outliers in the series. Here is an illustration of how a Kalman Filter can help model for the same.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MGCodesandStats/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## [- Modelling time series relationships between the S&P 500 and oil prices](https://mgcodesandstats.github.io/time-series-relationships-economics/)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+In this example, an OLS regression model is constructed in an attempt to forecast future S&P 500 levels based on the price of Brent crude oil.
+
+
+## [- neuralnet: Train and Test Neural Networks Using R](https://mgcodesandstats.github.io/neural-network-modelling-neuralnet-r/)
+
+Examples of how **classification** and **regression** problems can be solved using neuralnet.
+
+
+## [- Predicting Irish electricity consumption with an LSTM neural network](https://mgcodesandstats.github.io/electricity-consumption-neural/)
+
+An LSTM model is used to forecast energy consumption of the Dublin City Council Civic Offices using data between April 2011 – February 2013.
+
+
+## [- SARIMA: Forecasting seasonal data with Python and R](https://mgcodesandstats.github.io/arima-model-statsmodels-python/)
+
+In this example, historical weather data for Dublin, Ireland is analysed and forecasted using seasonal ARIMA methods. Specifically, **auto.arima** in R and **Pyramid** in Python is used to investigate the ideal SARIMA configuration.
+
+
+## [- Visualizing New York City WiFi Access with K-Means Clustering](https://mgcodesandstats.github.io/visualizing-new-york-city-wifi-access-with-k-means-clustering/)
+
+A k-means clustering algorithm is used to analyse geographical data for free public WiFi in New York City, and the clusters are mapped geographically using **nycmaps**.
+
+
+## [- Working with panel data in R: Fixed vs. Random Effects (plm)](https://mgcodesandstats.github.io/panel-data-plm-r/)
+
+Here is an analysis of internet usage across both time and consumers (i.e. a panel dataset) using the **plm** library in R.
