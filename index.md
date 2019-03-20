@@ -8,7 +8,11 @@
 
 [- Bayesian Statistics: Analysis of Health Data](https://mgcodesandstats.github.io/bayesian-statistics-health-data/)
 
+Here is an example of how Bayesian statistics can be used to indicate the best predictor of BMI fluctuations within a regression model.
+
 [- Cumulative Binomial Probability with R and Shiny](https://mgcodesandstats.github.io/cumulative-binomial-probability-r-shiny/)
+
+The following is an illustration of how cumulative binomial probability can be calculated, and how a Shiny Web App can be used to make the analysis more intuitive.
 
 [- Image Recognition with Keras: Convolutional Neural Networks](https://mgcodesandstats.github.io/image-recognition-with-keras-convolutional-neural-networks/)
 
