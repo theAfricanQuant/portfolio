@@ -37,6 +37,11 @@ In this example, an OLS regression model is constructed in an attempt to forecas
 Examples of how **classification** and **regression** problems can be solved using neuralnet.
 
 
+## [- Predicting Hotel Cancellations with ExtraTreesClassifier and Logistic Regression](https://www.michael-grogan.com/hotel-cancellations/)
+
+Here is an example of how the ExtraTreesClassifier and Logistic Regression models can be used in Python to determine whether a potential customer will cancel their hotel booking or not.
+
+
 ## [- Predicting Irish electricity consumption with an LSTM neural network](https://mgcodesandstats.github.io/electricity-consumption-neural/)
 
 An LSTM model is used to forecast energy consumption of the Dublin City Council Civic Offices using data between April 2011 – February 2013.
