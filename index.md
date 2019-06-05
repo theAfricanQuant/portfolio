@@ -51,6 +51,11 @@ An LSTM model is used to forecast energy consumption of the Dublin City Council 
 In this example, historical weather data for Dublin, Ireland is analysed and forecasted using seasonal ARIMA methods. Specifically, **auto.arima** in R and **Pyramid** in Python is used to investigate the ideal SARIMA configuration.
 
 
+## [- Summarizing Economic Bulletin Documents with tf-idf](https://mgcodesandstats.github.io/nlp-economics/)
+
+In this example, a selection of economic bulletins in PDF format from 2018 to 2019 are analysed in order to gauge economic sentiment. The bulletins in question are sourced from the European Central Bank website. tf-idf is used to rank words in a particular order of importance, and then a word cloud is used as a visual to highlight key words in the text.
+
+
 ## [- Visualizing New York City WiFi Access with K-Means Clustering](https://mgcodesandstats.github.io/visualizing-new-york-city-wifi-access-with-k-means-clustering/)
 
 A k-means clustering algorithm is used to analyse geographical data for free public WiFi in New York City, and the clusters are mapped geographically using **nycmaps**.
