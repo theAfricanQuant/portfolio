@@ -4,8 +4,6 @@
 [E-mail me](mailto:contact@michaeljgrogan.com) |
 [LinkedIn](https://www.linkedin.com/in/michaeljgrogan/)
 
-test
-
 # Portfolio
 
 ## [- Bayesian Statistics: Analysis of Health Data](https://mgcodesandstats.github.io/bayesian-statistics-health-data/)
