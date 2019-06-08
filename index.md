@@ -15,6 +15,9 @@ Here is an example of how Bayesian statistics can be used to indicate the best p
 
 The following is an illustration of how cumulative binomial probability can be calculated, and how a Shiny Web App can be used to make the analysis more intuitive.
 
+## [- Deploying Python application using Docker and AWS](https://mgcodesandstats.github.io/docker-aws/)
+
+In this example, we will see how a simple Python script can be incorporated into a Docker image, and this image will then be pushed to ECR (Elastic Container Registry) in AWS.
 
 ## [- Image Recognition with Keras: Convolutional Neural Networks](https://mgcodesandstats.github.io/image-recognition-with-keras-convolutional-neural-networks/)
 
