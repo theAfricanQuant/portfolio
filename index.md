@@ -49,11 +49,6 @@ Here is an example of how the ExtraTreesClassifier and Logistic Regression model
 An LSTM model is used to forecast energy consumption of the Dublin City Council Civic Offices using data between April 2011 – February 2013.
 
 
-## [- SARIMA: Forecasting seasonal data with Python and R](https://mgcodesandstats.github.io/arima-model-statsmodels-python/)
-
-In this example, historical weather data for Dublin, Ireland is analysed and forecasted using seasonal ARIMA methods. Specifically, **auto.arima** in R and **Pyramid** in Python is used to investigate the ideal SARIMA configuration.
-
-
 ## [- Summarizing Economic Bulletin Documents with tf-idf](https://mgcodesandstats.github.io/nlp-economics/)
 
 In this example, a selection of economic bulletins in PDF format from 2018 to 2019 are analysed in order to gauge economic sentiment. The bulletins in question are sourced from the European Central Bank website. tf-idf is used to rank words in a particular order of importance, and then a word cloud is used as a visual to highlight key words in the text.
