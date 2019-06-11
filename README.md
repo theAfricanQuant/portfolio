@@ -41,7 +41,7 @@ Examples of how **classification** and **regression** problems can be solved usi
 
 ## [- Predicting Hotel Cancellations with ExtraTreesClassifier and Support Vector Machines](https://mgcodesandstats.github.io/hotel-cancellations/)
 
-Here is an example of how the ExtraTreesClassifier and support vector machines can be used in Python to determine whether a potential customer will cancel their hotel booking or not.
+Here is an example of how the ExtraTreesClassifier and Support Vector Machines can be used in Python to determine whether a potential customer will cancel their hotel booking or not.
 
 
 ## [- Predicting Irish electricity consumption with an LSTM neural network](https://mgcodesandstats.github.io/electricity-consumption-neural/)
