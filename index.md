@@ -49,7 +49,7 @@ Here is an example of how the ExtraTreesClassifier and Support Vector Machines c
 An LSTM model is used to forecast energy consumption of the Dublin City Council Civic Offices using data between April 2011 – February 2013.
 
 
-## [- Summarizing Economic Bulletin Documents with tf-idf](https://mgcodesandstats.github.io/nlp-economics/)
+## [- Summarizing Economic Bulletin Documents with TF-IDF](https://mgcodesandstats.github.io/nlp-economics/)
 
 In this example, a selection of economic bulletins in PDF format from 2018 to 2019 are analysed in order to gauge economic sentiment. The bulletins in question are sourced from the European Central Bank website. tf-idf is used to rank words in a particular order of importance, and then a word cloud is used as a visual to highlight key words in the text.
 
