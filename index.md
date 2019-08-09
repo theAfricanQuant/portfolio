@@ -33,8 +33,11 @@ Here is an example of how Support Vector Machines and the ARIMA model can be use
 
 ## [- Summarizing Economic Bulletin Documents with TF-IDF](https://mgcodesandstats.github.io/nlp-economics/)
 
-In this example, a selection of economic bulletins in PDF format from 2018 to 2019 are analysed in order to gauge economic sentiment. The bulletins in question are sourced from the European Central Bank website. tf-idf is used to rank words in a particular order of importance, and then a word cloud is used as a visual to highlight key words in the text.
+A selection of economic bulletins in PDF format from 2018 to 2019 are analysed in order to gauge economic sentiment. The bulletins in question are sourced from the European Central Bank website. tf-idf is used to rank words in a particular order of importance, and then a word cloud is used as a visual to highlight key words in the text.
 
+## [- Text Generation with LSTM: Economic Analysis](https://mgcodesandstats.github.io//textgen-economics)
+
+In this example, an LSTM model is trained using text from a sample ECB policy document, in order to generate “new” text data, with a view to revealing insights from such text that could be used for policy purposes.
 
 ## [- Visualizing New York City WiFi Access with K-Means Clustering](https://mgcodesandstats.github.io/visualizing-new-york-city-wifi-access-with-k-means-clustering/)
 
