@@ -13,3 +13,9 @@
 ### [- Part 2: Classification with Keras Neural Network](https://www.michael-grogan.com/hotel-cancellations/www.michael-grogan.com/hotel-cancellations-neuralnetwork)
 
 ### [- Part 3: Time Series Predictions with LSTM Network](https://www.michael-grogan.com/hotel-cancellations/www.michael-grogan.com/hotel-cancellations-lstm)
+
+## Using NLP for Economic Analysis
+
+### [- Part 1: Summarizing Economic Bulletin Documents with tf-idf](https://www.michael-grogan.com/nlp-economics/)
+
+### [- Part 2: Sentiment Analysis of Economic Reports Using Logistic Regression](https://www.michael-grogan.com/sentiment-analysis-economics/)
