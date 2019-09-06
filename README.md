@@ -8,7 +8,7 @@
 
 ## Predicting Hotel Cancellations with Machine Learning
 
-### [- Part 1: Support Vector Machines and ARIMA](https://www.michael-grogan.com/hotel-cancellations/)
+### [- Part 1: Support Vector Machines and ARIMA](https://www.michael-grogan.com/hotel-cancellations)
 
 ### [- Part 2: Classification with Keras Neural Network](https://www.michael-grogan.com/hotel-cancellations/www.michael-grogan.com/hotel-cancellations-neuralnetwork)
 
@@ -16,20 +16,20 @@
 
 ## Using NLP for Economic Analysis
 
-### [- Part 1: Summarizing Economic Bulletin Documents with tf-idf](https://www.michael-grogan.com/nlp-economics/)
+### [- Part 1: Summarizing Economic Bulletin Documents with tf-idf](https://www.michael-grogan.com/nlp-economics)
 
-### [- Part 2: Sentiment Analysis of Economic Reports Using Logistic Regression](https://www.michael-grogan.com/sentiment-analysis-economics/)
+### [- Part 2: Sentiment Analysis of Economic Reports Using Logistic Regression](https://www.michael-grogan.com/sentiment-analysis-economics)
 
 ## Other Tutorials
 
-### [- Bayesian Statistics: Analysis of Health Data]
+### [- Bayesian Statistics: Analysis of Health Data](https://www.michael-grogan.com/bayesian-statistics-health-data)
 
-### [- Deploying Python application using Docker and AWS]
+### [- Deploying Python application using Docker and AWS](https://www.michael-grogan.com/docker-aws)
 
-### [- Viewing LSTM predictions in a web application with Django]
+### [- Viewing LSTM predictions in a web application with Django](https://www.michael-grogan.com/django-lstm)
 
-### [- Image Recognition with Keras: Convolutional Neural Networks]
+### [- Image Recognition with Keras: Convolutional Neural Networks](https://www.michael-grogan.com/image-recognition-with-keras-convolutional-neural-networks)
 
-### [- Visualizing New York City WiFi Access with K-Means Clustering]
+### [- Visualizing New York City WiFi Access with K-Means Clustering](https://www.michael-grogan.com/visualizing-new-york-city-wifi-access-with-k-means-clustering)
 
-### [- Shiny Web Applications]
+### [- Shiny Web Applications](https://github.com/MGCodesandStats/shiny-web-apps)
