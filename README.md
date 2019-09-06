@@ -10,9 +10,9 @@
 
 ### [- Part 1: Support Vector Machines and ARIMA](https://www.michael-grogan.com/hotel-cancellations)
 
-### [- Part 2: Classification with Keras Neural Network](https://www.michael-grogan.com/hotel-cancellations/www.michael-grogan.com/hotel-cancellations-neuralnetwork)
+### [- Part 2: Classification with Keras Neural Network](https://www.michael-grogan.com/hotel-cancellations-neuralnetwork)
 
-### [- Part 3: Time Series Predictions with LSTM Network](https://www.michael-grogan.com/hotel-cancellations/www.michael-grogan.com/hotel-cancellations-lstm)
+### [- Part 3: Time Series Predictions with LSTM Network](https://www.michael-grogan.com/hotel-cancellations-lstm)
 
 ## Using NLP for Economic Analysis
 
