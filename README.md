@@ -26,10 +26,10 @@
 
 ### [- Deploying Python application using Docker and AWS](https://www.michael-grogan.com/docker-aws)
 
-### [- Viewing LSTM predictions in a web application with Django](https://www.michael-grogan.com/django-lstm)
+### [- Django: Viewing LSTM predictions in a web application](https://www.michael-grogan.com/django-lstm)
 
 ### [- Image Recognition with Keras: Convolutional Neural Networks](https://www.michael-grogan.com/image-recognition-with-keras-convolutional-neural-networks)
 
-### [- Visualizing New York City WiFi Access with K-Means Clustering](https://www.michael-grogan.com/visualizing-new-york-city-wifi-access-with-k-means-clustering)
-
 ### [- Shiny Web Applications](https://github.com/MGCodesandStats/shiny-web-apps)
+
+### [- Visualizing New York City WiFi Access with K-Means Clustering](https://www.michael-grogan.com/visualizing-new-york-city-wifi-access-with-k-means-clustering)
