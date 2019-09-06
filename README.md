@@ -12,4 +12,4 @@
 
 ### [- Part 2: Predicting Hotel Cancellations with a Keras Neural Network](https://www.michael-grogan.com/hotel-cancellations/www.michael-grogan.com/hotel-cancellations-neuralnetwork)
 
-### [-Part 3: Predicting Weekly Hotel Cancellations with an LSTM Network](https://www.michael-grogan.com/hotel-cancellations/www.michael-grogan.com/hotel-cancellations-lstm)
+### [- Part 3: Predicting Weekly Hotel Cancellations with an LSTM Network](https://www.michael-grogan.com/hotel-cancellations/www.michael-grogan.com/hotel-cancellations-lstm)
