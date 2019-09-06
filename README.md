@@ -22,3 +22,14 @@
 
 ## Other Tutorials
 
+### [- Bayesian Statistics: Analysis of Health Data]
+
+### [- Deploying Python application using Docker and AWS]
+
+### [- Viewing LSTM predictions in a web application with Django]
+
+### [- Image Recognition with Keras: Convolutional Neural Networks]
+
+### [- Visualizing New York City WiFi Access with K-Means Clustering]
+
+### [- Shiny Web Applications]
