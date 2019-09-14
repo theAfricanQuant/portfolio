@@ -14,6 +14,8 @@
 
 ### [- Part 3: Time Series Predictions with LSTM Network](https://www.michael-grogan.com/hotel-cancellations-lstm)
 
+### [- Part 4: Displaying AUC Results with Django Web App](https://www.michael-grogan.com/hotel-django/)
+
 ## Using NLP for Economic Analysis
 
 ### [- Part 1: Summarizing Economic Bulletin Documents with tf-idf](https://www.michael-grogan.com/nlp-economics)
@@ -25,8 +27,6 @@
 ### [- Bayesian Statistics: Analysis of Health Data](https://www.michael-grogan.com/bayesian-statistics-health-data)
 
 ### [- Deploying Python application using Docker and AWS](https://www.michael-grogan.com/docker-aws)
-
-### [- Django: Viewing LSTM predictions in a web application](https://www.michael-grogan.com/django-lstm)
 
 ### [- Image Recognition with Keras: Convolutional Neural Networks](https://www.michael-grogan.com/image-recognition-with-keras-convolutional-neural-networks)
 
