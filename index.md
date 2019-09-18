@@ -18,9 +18,7 @@
 
 ## Using NLP for Economic Analysis
 
-### [- Part 1: Summarizing Economic Bulletin Documents with tf-idf](https://www.michael-grogan.com/nlp-economics)
-
-### [- Part 2: Sentiment Analysis of Economic Reports Using Logistic Regression](https://www.michael-grogan.com/sentiment-analysis-economics)
+### [- Summarizing Economic Bulletin Documents with tf-idf and Latent Dirichlet Allocation](https://www.michael-grogan.com/nlp-economics)
 
 ## Other Tutorials
 
