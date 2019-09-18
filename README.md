@@ -18,7 +18,7 @@
 
 ## Using NLP for Economic Analysis
 
-### [- Summarizing Economic Bulletin Documents with tf-idf and Latent Dirichlet Allocation](https://www.michael-grogan.com/nlp-economics)
+### [- Summarizing Economic Bulletin Documents with tf-idf and Latent Dirichlet Allocation](https://github.com/mgcodesandstats/nlp-economics)
 
 ## Other Tutorials
 
