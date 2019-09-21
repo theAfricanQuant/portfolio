@@ -16,15 +16,9 @@
 
 ### [- Part 4: Displaying AUC Results with Django Web App](https://www.michael-grogan.com/hotel-django/)
 
-## Using NLP for Economic Analysis
-
-### [- Summarizing Economic Bulletin Documents with tf-idf and Latent Dirichlet Allocation](https://www.michael-grogan.com/nlp-economics)
-
-## Image Classification
+## Other Projects/Tutorials
 
 ### [- Image Recognition with Keras: Convolutional Neural Networks](https://www.michael-grogan.com/image-recognition-with-keras-convolutional-neural-networks)
-
-## Other Tutorials
 
 ### [- Bayesian Statistics: Analysis of Health Data](https://www.michael-grogan.com/bayesian-statistics-health-data)
 
