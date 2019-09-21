@@ -16,12 +16,14 @@
 
 ### [- Part 4: Displaying AUC Results with Django Web App](https://www.michael-grogan.com/hotel-django/)
 
-## [- Image Recognition with Keras: Convolutional Neural Networks](https://www.michael-grogan.com/image-recognition-with-keras-convolutional-neural-networks)
+## Other Projects/Tutorials
 
-## [- Bayesian Statistics: Analysis of Health Data](https://www.michael-grogan.com/bayesian-statistics-health-data)
+### [- Image Recognition with Keras: Convolutional Neural Networks](https://www.michael-grogan.com/image-recognition-with-keras-convolutional-neural-networks)
 
-## [- Deploying Python application using Docker and AWS](https://www.michael-grogan.com/docker-aws)
+### [- Bayesian Statistics: Analysis of Health Data](https://www.michael-grogan.com/bayesian-statistics-health-data)
 
-## [- Shiny Web Applications](https://github.com/MGCodesandStats/shiny-web-apps)
+### [- Deploying Python application using Docker and AWS](https://www.michael-grogan.com/docker-aws)
 
-## [- Visualizing New York City WiFi Access with K-Means Clustering](https://www.michael-grogan.com/visualizing-new-york-city-wifi-access-with-k-means-clustering)
+### [- Shiny Web Applications](https://github.com/MGCodesandStats/shiny-web-apps)
+
+### [- Visualizing New York City WiFi Access with K-Means Clustering](https://www.michael-grogan.com/visualizing-new-york-city-wifi-access-with-k-means-clustering)
